@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 from fileinput import filename
 import pandas as pd
 import json
